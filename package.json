@@ -1,0 +1,12 @@
+{
+  "name": "multi-sig-wallet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Nathan Olah",
+  "license": "MIT",
+  "devDependencies": {
+    "@truffle/hdwallet-provider": "^2.0.14",
+    "chai": "^4.3.6",
+    "chai-as-promised": "^7.1.1"
+  }
+}
